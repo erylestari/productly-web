@@ -1,0 +1,134 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-primary {
+    background: #FF9900;
+    border: 0;
+    padding: 15px 41px 15px 41px;
+    /*top right bottom left*/
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background: #bd750a;
+    border: 0;
+}
+
+.btn-secondary {
+    background: none;
+    border: 1px solid #BCD0E5;
+    padding: 15px 41px 15px 41px;
+    /*top right bottom left*/
+    font-size: 16px;
+    font-weight: 600;
+    color: #173A56;
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid #88a2bd;
+    color: #173A56;
+}
+
+.herobwa h1 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.herobwa p {
+    /*font-weight: 400;*/
+    font-style: normal;
+    color: #544837;
+}
+
+.navbar-nav .nav-link {
+    color: #2F281E;
+}
+
+.iconbwa h1 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.iconbwa h5 {
+    font-weight: 600;
+    color: #2F281E;
+}
+
+.iconbwa p {
+    font-size: 16px;
+    color: #2F281E;
+}
+
+.design-validation h1 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.design-validation h6 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.design-validation p {
+    font-weight: 400;
+    color: #544837;
+}
+
+.product-decision h1 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.product-decision p {
+    font-weight: 400;
+    color: #544837;
+}
+
+.marketer-optimisation h1 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.marketer-optimisation h6 {
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.marketer-optimisation p {
+    font-weight: 400;
+    color: #544837;
+}
+
+.marketing-strategis h3,
+h5 {
+    font-weight: 700;
+}
+
+.marketing-strategis p {
+    font-weight: 500;
+}
+
+.marketing-strategis h3,
+p {
+    color: #2F281E;
+}
+
+.card-1 p {
+    font-weight: 400;
+}
+
+.set-color {
+    color: #FF9900;
+}
+
+@media only screen and (max-width:768px) {
+
+    .btn-primary,
+    .btn-secondary {
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+}
